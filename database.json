@@ -1,0 +1,21 @@
+{
+  "cours": [
+    {
+      "titre": "chimie",
+      "description": "Ce cours est une introduction de la chimie generale",
+      "prof": "",
+      "inscrits": ["mo@gmail.com"]
+    }
+  ],
+  "profs": [
+    {
+      "nom": "Bakary",
+      "prenom": "Konate",
+      "email": "prof1@gmail.com",
+      "cours": "chimie"
+    }
+  ],
+  "etudiants": [
+    { "nom": "sangare", "prenom": "mohamed", "email": "mo@gmail.com" }
+  ]
+}
